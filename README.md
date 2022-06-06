@@ -1,3 +1,3 @@
-# ICLI
+# ITE
 Islamic Terminal Emulator
 
